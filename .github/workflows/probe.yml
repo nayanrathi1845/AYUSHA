@@ -4,4 +4,9 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - run: echo ok
+      - run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          for u in "https://www.investorgain.com/report/live-ipo-gmp/331/" "https://www.investorgain.com/ipo/tata-technologies-ipo/530/" "https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI?range=6mo&interval=1d" "https://query1.finance.yahoo.com/v8/finance/chart/%5EINDIAVIX?range=6mo&interval=1d" "https://query1.finance.yahoo.com/v8/finance/chart/%5ECNXSC?range=6mo&interval=1d"; do
+            code=$(curl -s -A "$UA" -o out.txt -w "%{http_code}" "$u"); echo "$code $(wc -c < out.txt) $u"; grep -o 'timetable_boa_dt' out.txt | head -1; head -c 200 out.txt | tr -d '\n'; echo
+          done
+          curl -s -A "$UA" -c cj -o /dev/null "https://www.nseindia.com/" ; code=$(curl -s -A "$UA" -b cj -H "accept: application/json" -o nse.txt -w "%{http_code}" "https://www.nseindia.com/api/historicalOR/vixhistory?from=01-10-2026&to=16-10-2026"); echo "NSE $code"; head -c 200 nse.txt
