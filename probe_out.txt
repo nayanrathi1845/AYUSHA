@@ -1,0 +1,13 @@
+308 25 https://www.investorgain.com/report/live-ipo-gmp/331/
+/report/ipo-gmp-live/331/
+200 260949 https://www.investorgain.com/ipo/tata-technologies-ipo/530/
+timetable_boa_dt
+<!DOCTYPE html><html lang="en" class="inter_a869fe2d-module__Nl2jCG__variable"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" 
+200 12580 https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI?range=6mo&interval=1d
+{"chart":{"result":[{"meta":{"currency":"INR","symbol":"^NSEI","exchangeName":"NSI","fullExchangeName":"NSE","instrumentType":"INDEX","firstTradeDate":1190000700,"regularMarketTime":1792144867,"hasPre
+200 14349 https://query1.finance.yahoo.com/v8/finance/chart/%5EINDIAVIX?range=6mo&interval=1d
+{"chart":{"result":[{"meta":{"currency":"INR","symbol":"^INDIAVIX","exchangeName":"NSI","fullExchangeName":"NSE","instrumentType":"INDEX","firstTradeDate":1204515900,"regularMarketTime":1792144806,"ha
+200 1228 https://query1.finance.yahoo.com/v8/finance/chart/%5ECNXSC?range=6mo&interval=1d
+{"chart":{"result":[{"meta":{"currency":"INR","symbol":"^CNXSC","exchangeName":"NSI","fullExchangeName":"NSE","instrumentType":"INDEX","firstTradeDate":null,"regularMarketTime":1792144867,"hasPrePostM
+NSE 200
+{"data":[{"EOD_TIMESTAMP":"01-OCT-2026","EOD_INDEX_NAME":"INDIA VIX","EOD_OPEN_INDEX_VAL":13.49,"EOD_HIGH_INDEX_VAL":15.6875,"EOD_LOW_INDEX_VAL":13.49,"EOD_CLOSE_INDEX_VAL":14.46,"EOD_PREV_CLOSE":13.4
