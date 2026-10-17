@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T16:07:36Z",
+ "updatedAt": "2026-10-17T16:13:57Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": -0.00308,
@@ -371,8 +371,8 @@
     "fresh_share": 0.344828,
     "anchor_share": null,
     "retail_quota": null,
-    "promoter_dilution": 72.8,
-    "promoter_post": 0.0,
+    "promoter_dilution": null,
+    "promoter_post": null,
     "n_lead_managers": 3.0,
     "log_price": 6.54103
    }
@@ -596,7 +596,7 @@
   "NSE nifty 104",
   "NSE small 104",
   "NSE vix 104",
-  "ok Paras Healthcare | features 38 / 47",
+  "ok Paras Healthcare | features 36 / 47",
   "ok Jio Platforms | features 29 / 40",
   "ok Tonbo Imaging India | features 40 / 41",
   "ok Zetwerk | features 45 / 48",
