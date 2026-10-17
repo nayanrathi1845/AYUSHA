@@ -1,23 +1,12 @@
-Traceback (most recent call last):
-  File "/home/runner/work/AYUSHA/AYUSHA/scripts/refresh.py", line 238, in nse_series
-    log("NSE", name, len(pts))
-  File "/home/runner/work/AYUSHA/AYUSHA/scripts/refresh.py", line 24, in log
-    msg = " ".join(str(x) for x in a); LOG.append(msg); print(msg, flush=True)
-                                       ^^^^^^^^^^
-AttributeError: 'function' object has no attribute 'append'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/runner/work/AYUSHA/AYUSHA/scripts/refresh.py", line 385, in <module>
-    sys.exit(main())
-             ^^^^^^
-  File "/home/runner/work/AYUSHA/AYUSHA/scripts/refresh.py", line 339, in main
-    series = nse_series()
-             ^^^^^^^^^^^^
-  File "/home/runner/work/AYUSHA/AYUSHA/scripts/refresh.py", line 240, in nse_series
-    log("NSE failed", e)
-  File "/home/runner/work/AYUSHA/AYUSHA/scripts/refresh.py", line 24, in log
-    msg = " ".join(str(x) for x in a); LOG.append(msg); print(msg, flush=True)
-                                       ^^^^^^^^^^
-AttributeError: 'function' object has no attribute 'append'
+NSE nifty 104
+NSE small 104
+NSE vix 104
+ok Paras Healthcare | features 38 / 47
+ok Jio Platforms | features 29 / 40
+ok Tonbo Imaging India | features 40 / 41
+ok Zetwerk | features 45 / 48
+ok Bonfiglioli Transmissions | features 40 / 48
+ok Sahajanand Medical Technologies | features 47 / 48
+ok Fusion CX | features 48 / 48
+ok HD Fire Protect | features 46 / 48
+wrote 8 IPOs
