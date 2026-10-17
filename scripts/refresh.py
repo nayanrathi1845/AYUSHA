@@ -269,7 +269,7 @@ def market_feats(series, cd):
 
 # ---------------------------------------------------------------- features (mirror build_dataset.py)
 L1P = lambda v: math.log1p(max(0.0, v)) if v is not None else None
-LOG = lambda v: math.log(v) if v and v > 0 else None
+LN = lambda v: math.log(v) if v and v > 0 else None
 
 
 def build_features(ipo, obj, fin, tr, subs, mkt, heat, n30):
@@ -308,10 +308,10 @@ def build_features(ipo, obj, fin, tr, subs, mkt, heat, n30):
     pe = num(obj.get("pe_ratio"))
     if pe is None:
         pe = subs.get("pe_site")
-    f["log_pe"], f["pe_missing_or_neg"] = LOG(pe), 0.0 if pe and pe > 0 else 1.0
-    f["log_pb"] = LOG(num(obj.get("price_to_book_value")))
-    f["log_mcap"] = LOG(num(obj.get("market_cap")))
-    f["log_issue_size"] = LOG(ipo.get("size_cr"))
+    f["log_pe"], f["pe_missing_or_neg"] = LN(pe), 0.0 if pe and pe > 0 else 1.0
+    f["log_pb"] = LN(num(obj.get("price_to_book_value")))
+    f["log_mcap"] = LN(num(obj.get("market_cap")))
+    f["log_issue_size"] = LN(ipo.get("size_cr"))
     fresh, ofs = num(obj.get("issue_size_fresh_in_amt")), num(obj.get("issue_size_ofs_in_amt"))
     fresh = fresh / 1e7 if fresh is not None else None
     ofs = ofs / 1e7 if ofs is not None else None
@@ -326,7 +326,7 @@ def build_features(ipo, obj, fin, tr, subs, mkt, heat, n30):
     f["promoter_post"] = pq
     lm = obj.get("lead_managers")
     f["n_lead_managers"] = float(len([x for x in str(lm).split(",") if x.strip()])) if lm else None
-    f["log_price"] = LOG(P)
+    f["log_price"] = LN(P)
     return {k: (None if v is None or (isinstance(v, float) and not math.isfinite(v)) else round(v, 6)) for k, v in f.items()}
 
 
