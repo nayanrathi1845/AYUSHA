@@ -18,10 +18,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -q requests beautifulsoup4
-      - run: python scripts/refresh.py
+      - run: python scripts/refresh.py 2>&1 | tee refresh_log.txt
+        continue-on-error: true
       - name: Commit if changed
         run: |
           git config user.name "ayusha-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add live.json
+          git add live.json refresh_log.txt
           if git diff --cached --quiet; then echo "no change"; else git commit -m "Update live IPO data" && git pull --rebase -q && git push; fi
