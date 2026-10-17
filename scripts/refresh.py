@@ -322,6 +322,8 @@ def build_features(ipo, obj, fin, tr, subs, mkt, heat, n30):
     f["anchor_share"] = an / st if an is not None and st else None
     f["retail_quota"] = ri / st if ri is not None and st else None
     pp, pq = num(obj.get("promoter_shareholding_pre_issue")), num(obj.get("promoter_shareholding_post_issue"))
+    pp = pp if pp else None   # 0 means "not filled in" on the site
+    pq = pq if pq else None
     f["promoter_dilution"] = pp - pq if pp is not None and pq is not None else None
     f["promoter_post"] = pq
     lm = obj.get("lead_managers")
