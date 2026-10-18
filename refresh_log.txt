@@ -1,9 +1,9 @@
-NSE nifty 104
-NSE small 104
-NSE vix 104
+NSE nifty 103
+NSE small 103
+NSE vix 103
 ok Paras Healthcare | features 36 / 47
-ok Jio Platforms | features 29 / 40
-ok Tonbo Imaging India | features 40 / 41
+ok Jio Platforms | features 36 / 47
+ok Tonbo Imaging India | features 47 / 48
 ok Zetwerk | features 45 / 48
 ok Bonfiglioli Transmissions | features 40 / 48
 ok Sahajanand Medical Technologies | features 47 / 48
