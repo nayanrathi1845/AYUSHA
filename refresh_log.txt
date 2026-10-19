@@ -1,6 +1,6 @@
-NSE nifty 102
-NSE small 102
-NSE vix 102
+NSE nifty 103
+NSE small 103
+NSE vix 103
 ok BLS Polymers | features 39 / 47
 ok Paras Healthcare | features 36 / 47
 ok Jio Platforms | features 31 / 40
