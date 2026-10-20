@@ -6,10 +6,10 @@ ok BLS Polymers | features 39 / 47
 ok EAAA India Alternatives | features 26 / 40
 ok Paras Healthcare | features 37 / 47
 ok Jio Platforms | features 31 / 40
-ok Tonbo Imaging India | features 47 / 48
-ok Sahajanand Medical Technologies | features 47 / 48
 ok Zetwerk | features 45 / 48
+ok Tonbo Imaging India | features 47 / 48
 ok Bonfiglioli Transmissions | features 40 / 48
+ok Sahajanand Medical Technologies | features 47 / 48
 ok Fusion CX | features 48 / 48
 ok HD Fire Protect | features 46 / 48
 wrote 11 IPOs
