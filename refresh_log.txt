@@ -1,10 +1,10 @@
 NSE nifty 102
 NSE small 102
 NSE vix 102
-ok EAAA India Alternatives | features 25 / 40
+ok EAAA India Alternatives | features 26 / 40
 ok BLS Polymers | features 39 / 47
-ok Paras Healthcare | features 36 / 47
-ok Jio Platforms | features 38 / 47
+ok Paras Healthcare | features 37 / 47
+ok Jio Platforms | features 31 / 40
 ok Tonbo Imaging India | features 47 / 48
 ok Zetwerk | features 45 / 48
 ok Sahajanand Medical Technologies | features 47 / 48
