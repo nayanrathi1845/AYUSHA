@@ -1,15 +1,14 @@
 NSE nifty 102
 NSE small 102
 NSE vix 102
-ok SFC Environmental Technologies | features 29 / 40
+ok SFC Environmental Technologies | features 32 / 40
 ok BLS Polymers | features 39 / 47
-ok EAAA India Alternatives | features 29 / 40
-ok Paras Healthcare | features 37 / 47
-ok Jio Platforms | features 31 / 40
+ok EAAA India Alternatives | features 31 / 40
+ok Paras Healthcare | features 46 / 48
+ok Jio Platforms | features 45 / 48
 ok Zetwerk | features 45 / 48
 ok Tonbo Imaging India | features 47 / 48
 ok Bonfiglioli Transmissions | features 40 / 48
 ok Sahajanand Medical Technologies | features 47 / 48
 ok Fusion CX | features 48 / 48
-ok HD Fire Protect | features 46 / 48
-wrote 11 IPOs
+wrote 10 IPOs
