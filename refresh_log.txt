@@ -1,6 +1,6 @@
-NSE nifty 102
-NSE small 102
-NSE vix 102
+NSE nifty 103
+NSE small 103
+NSE vix 103
 ok SFC Environmental Technologies | features 32 / 40
 ok BLS Polymers | features 39 / 47
 ok EAAA India Alternatives | features 31 / 40
