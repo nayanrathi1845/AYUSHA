@@ -6,7 +6,7 @@ ok BLS Polymers | features 39 / 47
 ok SFC Environmental Technologies | features 39 / 47
 ok EAAA India Alternatives | features 31 / 40
 ok Paras Healthcare | features 46 / 48
-ok Jio Platforms | features 38 / 41
+ok Jio Platforms | features 45 / 48
 ok Bonfiglioli Transmissions | features 40 / 48
 ok Sahajanand Medical Technologies | features 47 / 48
 ok Zetwerk | features 45 / 48
