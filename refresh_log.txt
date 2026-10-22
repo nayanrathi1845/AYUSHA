@@ -1,6 +1,6 @@
-NSE nifty 103
-NSE small 103
-NSE vix 103
+NSE nifty 104
+NSE small 104
+NSE vix 104
 ok Bombay Coated and Special Steels | features 25 / 40
 ok BLS Polymers | features 39 / 47
 ok SFC Environmental Technologies | features 39 / 47
