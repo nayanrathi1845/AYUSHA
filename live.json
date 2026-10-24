@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T05:46:03Z",
+ "updatedAt": "2026-10-24T06:56:36Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": -0.03125,
@@ -394,17 +394,10 @@
    "fy_end": "31 Mar 2026",
    "revenue_cr": 149759.1,
    "pat_cr": 30052.7,
-   "gmp_trend": "Volatile",
+   "gmp_trend": null,
    "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
    "features": {
     "gmp_pct": 22.341376,
-    "gmp_first_pct": 13.226095,
-    "gmp_change_pct": 9.115282,
-    "gmp_range_pct": 11.170688,
-    "gmp_slope_pct": 0.520107,
-    "gmp_pos_sessions": 60.0,
-    "gmp_neg_sessions": 30.0,
-    "gmp_volatile": 1.0,
     "log_sub_qib": 4.221711,
     "log_sub_nii": 2.707383,
     "log_sub_bnii": 2.826129,
@@ -531,7 +524,7 @@
   "ok SFC Environmental Technologies | features 39 / 47",
   "ok BLS Polymers | features 39 / 47",
   "ok EAAA India Alternatives | features 40 / 47",
-  "ok Jio Platforms | features 45 / 48",
+  "ok Jio Platforms | features 38 / 41",
   "ok Paras Healthcare | features 46 / 48"
  ]
 }
