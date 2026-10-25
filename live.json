@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T11:43:41Z",
+ "updatedAt": "2026-10-25T12:53:40Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": -0.03125,
@@ -92,7 +92,7 @@
    "name": "EAAA India Alternatives",
    "status": "Upcoming",
    "price": 1665.0,
-   "gmp": 46.0,
+   "gmp": 36.0,
    "size_cr": 1200.0,
    "open": "26-Oct",
    "close": "28-Oct",
@@ -112,7 +112,7 @@
    "gmp_trend": "Downward",
    "url": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
    "features": {
-    "gmp_pct": 2.762763,
+    "gmp_pct": 2.162162,
     "gmp_first_pct": 7.267267,
     "gmp_change_pct": -5.105105,
     "gmp_range_pct": 5.105105,
