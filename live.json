@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T10:45:08Z",
+ "updatedAt": "2026-10-25T11:43:41Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": -0.03125,
@@ -92,7 +92,7 @@
    "name": "EAAA India Alternatives",
    "status": "Upcoming",
    "price": 1665.0,
-   "gmp": 52.0,
+   "gmp": 46.0,
    "size_cr": 1200.0,
    "open": "26-Oct",
    "close": "28-Oct",
@@ -112,7 +112,7 @@
    "gmp_trend": "Downward",
    "url": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
    "features": {
-    "gmp_pct": 3.123123,
+    "gmp_pct": 2.762763,
     "gmp_first_pct": 7.267267,
     "gmp_change_pct": -5.105105,
     "gmp_range_pct": 5.105105,
@@ -384,7 +384,7 @@
    "name": "Jio Platforms",
    "status": "Closed",
    "price": 1119.0,
-   "gmp": 248.0,
+   "gmp": 250.0,
    "size_cr": 30213.0,
    "open": "21-Oct",
    "close": "23-Oct",
@@ -404,7 +404,7 @@
    "gmp_trend": "Volatile",
    "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
    "features": {
-    "gmp_pct": 22.162645,
+    "gmp_pct": 22.341376,
     "gmp_first_pct": 13.226095,
     "gmp_change_pct": 9.115282,
     "gmp_range_pct": 11.170688,
