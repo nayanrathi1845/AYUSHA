@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T13:44:09Z",
+ "updatedAt": "2026-10-25T14:44:34Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": -0.03125,
@@ -114,9 +114,9 @@
    "features": {
     "gmp_pct": 2.162162,
     "gmp_first_pct": 7.267267,
-    "gmp_change_pct": -4.864865,
-    "gmp_range_pct": 4.864865,
-    "gmp_slope_pct": -2.432432,
+    "gmp_change_pct": -5.285285,
+    "gmp_range_pct": 5.285285,
+    "gmp_slope_pct": -2.642643,
     "gmp_pos_sessions": 0.0,
     "gmp_neg_sessions": 100.0,
     "gmp_volatile": 0.0,
@@ -406,11 +406,11 @@
    "features": {
     "gmp_pct": 22.341376,
     "gmp_first_pct": 13.226095,
-    "gmp_change_pct": 8.93655,
+    "gmp_change_pct": 8.757819,
     "gmp_range_pct": 11.170688,
-    "gmp_slope_pct": 0.49151,
-    "gmp_pos_sessions": 61.9,
-    "gmp_neg_sessions": 33.3,
+    "gmp_slope_pct": 0.488829,
+    "gmp_pos_sessions": 57.1,
+    "gmp_neg_sessions": 38.1,
     "gmp_volatile": 1.0,
     "log_sub_qib": 4.221711,
     "log_sub_nii": 2.707383,
