@@ -5,7 +5,7 @@ ok Bombay Coated and Special Steels | features 39 / 47
 ok M.K.Sons Fine Jewels | features 38 / 47
 ok SFC Environmental Technologies | features 39 / 47
 ok BLS Polymers | features 39 / 47
-ok EAAA India Alternatives | features 40 / 47
+ok EAAA India Alternatives | features 33 / 40
 ok Jio Platforms | features 45 / 48
-ok Paras Healthcare | features 46 / 48
+ok Paras Healthcare | features 48 / 48
 wrote 7 IPOs
