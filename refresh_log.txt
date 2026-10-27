@@ -1,6 +1,6 @@
-NSE nifty 103
-NSE small 103
-NSE vix 103
+NSE nifty 102
+NSE small 102
+NSE vix 102
 ok Bombay Coated and Special Steels | features 39 / 47
 ok M.K.Sons Fine Jewels | features 38 / 47
 ok SFC Environmental Technologies | features 39 / 47
