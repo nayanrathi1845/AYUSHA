@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T14:02:30Z",
+ "updatedAt": "2026-10-27T15:00:52Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": -0.01359,
@@ -454,7 +454,7 @@
    "name": "Jio Platforms",
    "status": "Closed",
    "price": 1119.0,
-   "gmp": 244.0,
+   "gmp": 241.0,
    "size_cr": 30187.65,
    "open": "21-Oct",
    "close": "23-Oct",
@@ -474,13 +474,13 @@
    "gmp_trend": "Volatile",
    "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
    "features": {
-    "gmp_pct": 21.805183,
+    "gmp_pct": 21.537087,
     "gmp_first_pct": 13.226095,
-    "gmp_change_pct": 8.310992,
+    "gmp_change_pct": 8.668454,
     "gmp_range_pct": 11.170688,
-    "gmp_slope_pct": 0.434316,
+    "gmp_slope_pct": 0.437891,
     "gmp_pos_sessions": 52.2,
-    "gmp_neg_sessions": 39.1,
+    "gmp_neg_sessions": 34.8,
     "gmp_volatile": 1.0,
     "log_sub_qib": 4.221711,
     "log_sub_nii": 2.707383,
