@@ -3,9 +3,9 @@ NSE small 102
 NSE vix 102
 ok Bombay Coated and Special Steels | features 39 / 47
 ok M.K.Sons Fine Jewels | features 38 / 47
-ok SFC Environmental Technologies | features 48 / 48
 ok BLS Polymers | features 48 / 48
+ok SFC Environmental Technologies | features 48 / 48
 ok EAAA India Alternatives | features 40 / 41
-ok Jio Platforms | features 45 / 48
 ok Paras Healthcare | features 48 / 48
+ok Jio Platforms | features 45 / 48
 wrote 7 IPOs
