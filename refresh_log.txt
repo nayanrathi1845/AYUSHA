@@ -3,7 +3,5 @@ NSE small 104
 NSE vix 104
 ok Bombay Coated and Special Steels | features 39 / 47
 ok M.K.Sons Fine Jewels | features 47 / 48
-ok SFC Environmental Technologies | features 48 / 48
-ok BLS Polymers | features 48 / 48
 ok EAAA India Alternatives | features 40 / 41
-wrote 5 IPOs
+wrote 3 IPOs
