@@ -1,6 +1,6 @@
-NSE nifty 104
-NSE small 104
-NSE vix 104
+NSE nifty 105
+NSE small 105
+NSE vix 105
 ok Bombay Coated and Special Steels | features 48 / 48
 ok M.K.Sons Fine Jewels | features 47 / 48
 ok EAAA India Alternatives | features 40 / 41
