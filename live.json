@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T14:17:07Z",
+ "updatedAt": "2026-10-29T16:05:59Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": 0.00687,
@@ -93,7 +93,7 @@
    "name": "M.K.Sons Fine Jewels",
    "status": "Open",
    "price": 162.0,
-   "gmp": 10.5,
+   "gmp": 11.0,
    "size_cr": 275.4,
    "open": "28-Oct",
    "close": "30-Oct",
@@ -113,11 +113,11 @@
    "gmp_trend": "Stable",
    "url": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/",
    "features": {
-    "gmp_pct": 6.481481,
+    "gmp_pct": 6.790123,
     "gmp_first_pct": 4.320988,
-    "gmp_change_pct": 1.851852,
+    "gmp_change_pct": 3.08642,
     "gmp_range_pct": 4.938272,
-    "gmp_slope_pct": 0.722222,
+    "gmp_slope_pct": 0.901235,
     "gmp_pos_sessions": 60.0,
     "gmp_neg_sessions": 20.0,
     "gmp_volatile": 0.0,
@@ -167,7 +167,7 @@
    "name": "EAAA India Alternatives",
    "status": "Closed",
    "price": 1665.0,
-   "gmp": 38.0,
+   "gmp": 32.0,
    "size_cr": 1200.0,
    "open": "26-Oct",
    "close": "28-Oct",
@@ -187,7 +187,7 @@
    "gmp_trend": null,
    "url": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
    "features": {
-    "gmp_pct": 2.282282,
+    "gmp_pct": 1.921922,
     "log_sub_qib": 2.694627,
     "log_sub_nii": 1.759581,
     "log_sub_bnii": 1.975469,
