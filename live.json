@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T14:11:39Z",
+ "updatedAt": "2026-10-30T19:26:21Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": 0.01483,
@@ -12,8 +12,8 @@
   "vix_avg30": 15.01333,
   "vix_chg30": 1.89
  },
- "heat_now": 14.812352941176469,
- "n_ipos_prev30_now": 16,
+ "heat_now": 14.6696,
+ "n_ipos_prev30_now": 12,
  "ipos": [
   {
    "name": "Bombay Coated and Special Steels",
@@ -167,7 +167,7 @@
    "name": "SFC Environmental Technologies",
    "status": "Closed",
    "price": 330.0,
-   "gmp": 21.0,
+   "gmp": 20.0,
    "size_cr": 667.53,
    "open": "27-Oct",
    "close": "29-Oct",
@@ -187,11 +187,11 @@
    "gmp_trend": "Stable",
    "url": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/",
    "features": {
-    "gmp_pct": 6.363636,
+    "gmp_pct": 6.060606,
     "gmp_first_pct": 9.393939,
-    "gmp_change_pct": -3.030303,
+    "gmp_change_pct": -3.333333,
     "gmp_range_pct": 6.666667,
-    "gmp_slope_pct": -0.39697,
+    "gmp_slope_pct": -0.412121,
     "gmp_pos_sessions": 33.3,
     "gmp_neg_sessions": 44.4,
     "gmp_volatile": 0.0,
@@ -241,7 +241,7 @@
    "name": "BLS Polymers",
    "status": "Closed",
    "price": 150.0,
-   "gmp": 73.0,
+   "gmp": 70.0,
    "size_cr": 255.0,
    "open": "27-Oct",
    "close": "29-Oct",
@@ -261,11 +261,11 @@
    "gmp_trend": "Volatile",
    "url": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/",
    "features": {
-    "gmp_pct": 48.666667,
+    "gmp_pct": 46.666667,
     "gmp_first_pct": 12.0,
-    "gmp_change_pct": 36.666667,
-    "gmp_range_pct": 36.666667,
-    "gmp_slope_pct": 2.633333,
+    "gmp_change_pct": 34.666667,
+    "gmp_range_pct": 34.666667,
+    "gmp_slope_pct": 2.56,
     "gmp_pos_sessions": 63.6,
     "gmp_neg_sessions": 0.0,
     "gmp_volatile": 1.0,
@@ -315,7 +315,7 @@
    "name": "M.K.Sons Fine Jewels",
    "status": "Closed",
    "price": 162.0,
-   "gmp": 6.3,
+   "gmp": 6.0,
    "size_cr": 275.4,
    "open": "28-Oct",
    "close": "30-Oct",
@@ -335,7 +335,7 @@
    "gmp_trend": "Stable",
    "url": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/",
    "features": {
-    "gmp_pct": 3.888889,
+    "gmp_pct": 3.703704,
     "gmp_first_pct": 4.320988,
     "gmp_change_pct": -0.617284,
     "gmp_range_pct": 5.555556,
@@ -387,9 +387,9 @@
   }
  ],
  "log": [
-  "NSE nifty 105",
-  "NSE small 105",
-  "NSE vix 105",
+  "NSE nifty 104",
+  "NSE small 104",
+  "NSE vix 104",
   "ok Bombay Coated and Special Steels | features 48 / 48",
   "ok M.K.Sons Fine Jewels | features 47 / 48",
   "ok SFC Environmental Technologies | features 48 / 48",
