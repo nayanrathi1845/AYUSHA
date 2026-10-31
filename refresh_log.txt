@@ -1,9 +1,10 @@
 NSE nifty 104
-NSE small 104
-NSE vix 104
-ok Bombay Coated and Special Steels | features 48 / 48
-ok M.K.Sons Fine Jewels | features 47 / 48
-ok SFC Environmental Technologies | features 48 / 48
-ok BLS Polymers | features 48 / 48
-ok EAAA India Alternatives | features 47 / 48
+NSE failed HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=30)
+Yahoo nifty 126
+Yahoo vix 126
+ok Bombay Coated and Special Steels | features 45 / 45
+ok M.K.Sons Fine Jewels | features 44 / 45
+ok SFC Environmental Technologies | features 45 / 45
+ok BLS Polymers | features 45 / 45
+ok EAAA India Alternatives | features 44 / 45
 wrote 5 IPOs
