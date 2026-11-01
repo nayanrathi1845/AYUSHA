@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T10:30:57Z",
+ "updatedAt": "2026-11-01T17:08:45Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": 0.01483,
@@ -93,7 +93,7 @@
    "name": "EAAA India Alternatives",
    "status": "Closed",
    "price": 1665.0,
-   "gmp": 68.0,
+   "gmp": 64.0,
    "size_cr": 1200.0,
    "open": "26-Oct",
    "close": "28-Oct",
@@ -113,11 +113,11 @@
    "gmp_trend": "Volatile",
    "url": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
    "features": {
-    "gmp_pct": 4.084084,
+    "gmp_pct": 3.843844,
     "gmp_first_pct": 7.267267,
-    "gmp_change_pct": -3.183183,
+    "gmp_change_pct": -3.423423,
     "gmp_range_pct": 6.606607,
-    "gmp_slope_pct": -0.081081,
+    "gmp_slope_pct": -0.093694,
     "gmp_pos_sessions": 55.6,
     "gmp_neg_sessions": 44.4,
     "gmp_volatile": 1.0,
@@ -167,7 +167,7 @@
    "name": "SFC Environmental Technologies",
    "status": "Closed",
    "price": 330.0,
-   "gmp": 26.5,
+   "gmp": 26.0,
    "size_cr": 667.53,
    "open": "27-Oct",
    "close": "29-Oct",
@@ -187,7 +187,7 @@
    "gmp_trend": "Stable",
    "url": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/",
    "features": {
-    "gmp_pct": 8.030303,
+    "gmp_pct": 7.878788,
     "gmp_first_pct": 9.393939,
     "gmp_change_pct": -1.515152,
     "gmp_range_pct": 6.666667,
