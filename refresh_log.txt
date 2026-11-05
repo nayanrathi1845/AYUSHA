@@ -1,5 +1,1 @@
-NSE nifty 104
-NSE small 104
-NSE vix 104
-ok Bombay Coated and Special Steels | features 48 / 48
-wrote 1 IPOs
+No rows from live GMP page; keeping old live.json
