@@ -1,6 +1,6 @@
-NSE nifty 102
-NSE small 102
-NSE vix 102
+NSE nifty 103
+NSE small 103
+NSE vix 103
 ok Mahanadi Coalfields | features 37 / 47
-ok Crystal Crop Protection | features 39 / 47
+ok Crystal Crop Protection | features 41 / 47
 wrote 2 IPOs
