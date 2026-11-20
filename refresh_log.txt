@@ -1,6 +1,8 @@
-NSE nifty 104
-NSE small 104
-NSE vix 104
+NSE nifty 105
+NSE small 105
+NSE vix 105
+ok Monomark Engineering | features 21 / 40
+ok Integris Medtech | features 22 / 40
 Traceback (most recent call last):
   File "/home/runner/work/AYUSHA/AYUSHA/scripts/refresh.py", line 387, in <module>
     sys.exit(main())
