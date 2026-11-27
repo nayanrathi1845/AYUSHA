@@ -1,10 +1,9 @@
-NSE nifty 104
-NSE small 104
-NSE vix 104
-ok Swara Baby Products | features 24 / 40
+NSE nifty 105
+NSE small 105
+NSE vix 105
 ok Integris Medtech | features 23 / 40
 ok Monomark Engineering | features 38 / 47
+ok Swara Baby Products | features 38 / 47
 ok Matangi Rubber | features 39 / 47
 ok Foodlink F&B Holdings | features 47 / 48
-ok Mahanadi Coalfields | features 46 / 48
-wrote 6 IPOs
+wrote 5 IPOs
