@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T12:27:21Z",
+ "updatedAt": "2026-11-27T21:59:16Z",
  "source": "investorgain.com (GMP, subscription, IPO details) + NSE (NIFTY 50, Smallcap 100, India VIX)",
  "market": {
   "nifty_ret30": 0.12813,
@@ -12,8 +12,8 @@
   "vix_avg30": 16.39857,
   "vix_chg30": 0.3
  },
- "heat_now": 15.964137931034482,
- "n_ipos_prev30_now": 7,
+ "heat_now": 15.383000000000001,
+ "n_ipos_prev30_now": 6,
  "ipos": [
   {
    "name": "Foodlink F&B Holdings",
@@ -129,8 +129,8 @@
     "vix": 16.55,
     "vix_avg30": 16.398571,
     "vix_chg30": 0.3,
-    "heat_prev60_gain": 15.964138,
-    "n_ipos_prev30": 7,
+    "heat_prev60_gain": 15.383,
+    "n_ipos_prev30": 6,
     "fin_rev_growth": 0.238469,
     "fin_pat_margin": 0.036069,
     "fin_pat_growth": 15.483607,
@@ -305,7 +305,7 @@
    "name": "Swara Baby Products",
    "status": "Upcoming",
    "price": 111.0,
-   "gmp": 7.0,
+   "gmp": 3.0,
    "size_cr": 799.88,
    "open": "2-Dec",
    "close": "4-Dec",
@@ -325,7 +325,7 @@
    "gmp_trend": "Initial",
    "url": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
    "features": {
-    "gmp_pct": 6.306306,
+    "gmp_pct": 2.702703,
     "gmp_first_pct": 2.702703,
     "gmp_change_pct": 0.0,
     "gmp_range_pct": 0.0,
@@ -376,9 +376,9 @@
   }
  ],
  "log": [
-  "NSE nifty 105",
-  "NSE small 105",
-  "NSE vix 105",
+  "NSE nifty 104",
+  "NSE small 104",
+  "NSE vix 104",
   "ok Integris Medtech | features 23 / 40",
   "ok Monomark Engineering | features 38 / 47",
   "ok Swara Baby Products | features 38 / 47",
