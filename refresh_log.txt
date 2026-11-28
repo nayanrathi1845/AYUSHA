@@ -1,6 +1,6 @@
-NSE nifty 104
-NSE small 104
-NSE vix 104
+NSE nifty 103
+NSE small 103
+NSE vix 103
 ok Integris Medtech | features 23 / 40
 ok Monomark Engineering | features 38 / 47
 ok Swara Baby Products | features 38 / 47
